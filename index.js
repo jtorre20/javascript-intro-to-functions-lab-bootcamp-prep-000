@@ -20,4 +20,3 @@ function sayHiToGrandma(string){
   string.toUpperCase() === string //true
   return ("YES INDEED!")
 }
-
