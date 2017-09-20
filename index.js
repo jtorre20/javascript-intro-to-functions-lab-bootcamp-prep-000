@@ -20,10 +20,4 @@ function sayHiToGrandma(string){
   string.toUpperCase() === string //true
   return ("YES INDEED!")
 }
-function sayHiToGrandma(string){
-  var mixedCase = "I love you, Grandma."
-  mixedCase.toLowerCase() === mixedCase //false
 
-  mixedCase.toUpperCase() === mixedCase //false
-  return ("I love you, too.")
-}
