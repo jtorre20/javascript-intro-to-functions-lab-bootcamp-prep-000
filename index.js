@@ -14,3 +14,7 @@ function sayHiToGrandma(string){
   string.toLowerCase === whisper(string)
   return ("I can't hear you!")
 }
+function sayHiToGrandma(string){
+  string.toUpperCase === shout(string)
+  return ("YES INDEED")
+}
